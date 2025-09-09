@@ -11,7 +11,7 @@
 
     <name>MLang</name>
     <description>Powerful Minecraft language library for Bukkit/Spigot plugins</description>
-    <url>https://github.com/dayqube/MLang</url>
+    <url>https://github.com/endchest/MLang</url>
 
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
