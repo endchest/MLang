@@ -21,9 +21,8 @@
 ### Maven
 ```xml
 <repository>
-    <id>daycube-releases</id>
-    <name>DAYCUBE</name>
-    <url>https://repo.hy-pe.ru/releases</url>
+    <id>endchest-releases</id>
+    <url>https://repo.endchest.ru/releases</url>
 </repository>
 
 <dependency>
@@ -36,15 +35,14 @@
 ### Gradle
 ```xml
 maven {
-    name "daycubeReleases"
-    url "https://repo.hy-pe.ru/releases
+    url "https://repo.endchest.ru/releases
 }
 
 implementation 'me.seetch:mlang:1.0.0'
 ```
 
 ### Manual
-Download the JAR file from [Releases](https://github.com/dayqube/MLang/releases) and add it to your project.
+Download the JAR file from [Releases](https://github.com/endchest/MLang/releases) and add it to your project.
 
 ## 🛠 Quick Start
 
@@ -238,4 +236,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-If you have questions or suggestions, create an [Issue](https://github.com/dayqube/MLang/issues) on GitHub.
+If you have questions or suggestions, create an [Issue](https://github.com/endchest/MLang/issues) on GitHub.
